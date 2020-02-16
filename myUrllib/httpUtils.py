@@ -5,7 +5,7 @@ import socket
 from collections import OrderedDict
 from time import sleep
 import requests
-from fake_useragent import UserAgent
+# from fake_useragent import UserAgent
 import TickerConfig
 from agency.agency_tools import proxy
 from config import logger

@@ -28,4 +28,7 @@ if __name__ == '__main__':
     elif args.operate == "c":
         from agency.cdn_utils import filterCdn
         filterCdn()
+    #
+    # from init import select_ticket_info
+    # select_ticket_info.select().main()
 
